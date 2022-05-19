@@ -1,0 +1,2 @@
+Time of purchase: 20:03:09.386653400 | Total of all purchases: 346.5
+Time of purchase: 20:03:09.394628500 | Total of all purchases: 855.0
